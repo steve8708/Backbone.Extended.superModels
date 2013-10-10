@@ -1,8 +1,8 @@
 {
-  "name": "Backbone.Extended.LiveTemplates",
+  "name": "Backbone.Extended.SuperModels",
   "version": "0.0.1",
   "author": "Steve Sewell",
-  "description": "Backbone.Extended.LiveTemplates",
+  "description": "Backbone.Extended.SuperModels",
   "dependencies": {
   },
   "devDependencies": {
