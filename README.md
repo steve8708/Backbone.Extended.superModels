@@ -1,4 +1,4 @@
-# Backbone.Extended.liveTemplates
+# Backbone.Extended.superModals
 
 Maximum performance nested models, two-way 1-n and n-n relations, and nested model/collection event bubbling.
 
